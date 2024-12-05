@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{2102591B-5406-467D-B45E-8BE480164E48}|ShowTicketLibrary\\ShowTicketLibrary.csproj|c:\\users\\davide.genito\\downloads\\showandticket-master\\showandticket-master\\showticketlibrary\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2102591B-5406-467D-B45E-8BE480164E48}|ShowTicketLibrary\\ShowTicketLibrary.csproj|solutionrelative:showticketlibrary\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C397EF03-38DB-411C-BA2E-38C9E4B86761}|TestShowTicket\\TestShowTicket.csproj|c:\\users\\davide.genito\\downloads\\showandticket-master\\showandticket-master\\testshowticket\\showtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C397EF03-38DB-411C-BA2E-38C9E4B86761}|TestShowTicket\\TestShowTicket.csproj|solutionrelative:testshowticket\\showtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShowTests.cs",
+              "DocumentMoniker": "C:\\Users\\davide.genito\\Downloads\\ShowAndTicket-master\\ShowAndTicket-master\\TestShowTicket\\ShowTests.cs",
+              "RelativeDocumentMoniker": "TestShowTicket\\ShowTests.cs",
+              "ToolTip": "C:\\Users\\davide.genito\\Downloads\\ShowAndTicket-master\\ShowAndTicket-master\\TestShowTicket\\ShowTests.cs",
+              "RelativeToolTip": "TestShowTicket\\ShowTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:10:21.149Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +45,7 @@
               "RelativeDocumentMoniker": "ShowTicketLibrary\\Show.cs",
               "ToolTip": "C:\\Users\\davide.genito\\Downloads\\ShowAndTicket-master\\ShowAndTicket-master\\ShowTicketLibrary\\Show.cs",
               "RelativeToolTip": "ShowTicketLibrary\\Show.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAABFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T10:42:56.874Z",
               "EditorCaption": ""
@@ -41,7 +58,7 @@
               "RelativeDocumentMoniker": "ShowTicketLibrary\\Ticket.cs",
               "ToolTip": "C:\\Users\\davide.genito\\Downloads\\ShowAndTicket-master\\ShowAndTicket-master\\ShowTicketLibrary\\Ticket.cs",
               "RelativeToolTip": "ShowTicketLibrary\\Ticket.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T10:40:31.139Z",
               "EditorCaption": ""

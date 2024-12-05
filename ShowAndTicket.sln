@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowAndTicket", "ShowAndTicket\ShowAndTicket.csproj", "{D1E72E32-F184-4BA5-924B-48C3A7F9AD5B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShowAndTicket", "ShowAndTicket\ShowAndTicket.csproj", "{D1E72E32-F184-4BA5-924B-48C3A7F9AD5B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowTicketLibrary", "ShowTicketLibrary\ShowTicketLibrary.csproj", "{2102591B-5406-467D-B45E-8BE480164E48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShowTicketLibrary", "ShowTicketLibrary\ShowTicketLibrary.csproj", "{2102591B-5406-467D-B45E-8BE480164E48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestShowTicket", "TestShowTicket\TestShowTicket.csproj", "{C397EF03-38DB-411C-BA2E-38C9E4B86761}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{2102591B-5406-467D-B45E-8BE480164E48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2102591B-5406-467D-B45E-8BE480164E48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2102591B-5406-467D-B45E-8BE480164E48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C397EF03-38DB-411C-BA2E-38C9E4B86761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C397EF03-38DB-411C-BA2E-38C9E4B86761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C397EF03-38DB-411C-BA2E-38C9E4B86761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C397EF03-38DB-411C-BA2E-38C9E4B86761}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
